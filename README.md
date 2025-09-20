@@ -61,8 +61,8 @@ Currently sharpening my skills through **hands-on labs, experiments, and learnin
 
 ## 📫 Connect With Me
 - 📧 [aniketjha348@gmail.com](mailto:aniketjha348@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/aniketjha348)  
-- 🐦 [Twitter](https://twitter.com/) *(optional)*  
+- 🔗 [LinkedIn](www.linkedin.com/in/aniket-jha-1a70b8305)  
+ 
 
 ---
 
