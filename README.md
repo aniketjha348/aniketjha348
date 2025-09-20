@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aniketjha348/aniketjha348/blob/main/Gemini_Generated_Image_m4p8m4p8m4p8m4p8.png" alt="Banner" width="100%" />
+  <img src="https://github.com/aniketjha348/aniketjha348/blob/main/Cybersecurity%20Vision%20of%20Aniket%20Jha.png" alt="Banner" width="100%" />
 </p>
 
 # Hi, I'm Aniket Jha! 👋
