@@ -77,6 +77,15 @@ My goal: leverage automation and robust security practices to create **resilient
 
 ---
 
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/EC-Council_CCSU-0078D4?style=for-the-badge&logo=ec-council&logoColor=white" alt="CCSU Certification" />
+  <img src="https://img.shields.io/badge/Microsoft_AZ-900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900 Certification" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 * Advanced **Cloud Architecture Patterns** on AWS & Azure.
