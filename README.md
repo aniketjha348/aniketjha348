@@ -80,8 +80,11 @@ My goal: leverage automation and robust security practices to create **resilient
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/EC-Council_CCSU-0078D4?style=for-the-badge&logo=ec-council&logoColor=white" alt="CCSU Certification" />
-  <img src="https://img.shields.io/badge/Microsoft_AZ-900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900 Certification" />
+  <!-- Custom CCSU Badge (Free Resource Example) -->
+  <img src="https://i.imgur.com/7PzEwOE.png" alt="CSCU Certification" width="150" />
+  
+  <!-- Official Microsoft AZ-900 Badge -->
+  <img src="https://images.credly.com/size/340x340/images/8cfc5824-1d53-4d5d-8044-7c4f63986c40/AZ-900.png" alt="AZ-900 Certification" width="150" />
 </p>
 
 ---
