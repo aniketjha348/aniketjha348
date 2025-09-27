@@ -80,9 +80,11 @@ My goal: leverage automation and robust security practices to create **resilient
 ## 🏅 Certifications
 
 <p>
-  <img src="https://www.credly.com/badges/6a4c1b9e-1b3d-4f8b-9e4e-3c6f3f3a3a5e/public_url" alt="AZ-900 Certification" width="150" />
-  <img src="https://www.eccouncil.org/wp-content/uploads/2021/03/CSCU-Logo.png" alt="CSCU Certification" width="150" />
+  <img src="https://img.shields.io/badge/CCSU-EC--Council-blue?style=for-the-badge" alt="CCSU Badge" />
+  <img src="https://img.shields.io/badge/AZ-900-Microsoft-blue?style=for-the-badge" alt="AZ-900 Badge" />
 </p>
+
+
 
 ---
 
