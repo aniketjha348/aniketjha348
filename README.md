@@ -17,7 +17,7 @@ My goal is to leverage automation and robust security practices to create resili
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-* Bash / Shell Scripting
+* ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🌐 Web Development
 * ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -37,7 +37,7 @@ My goal is to leverage automation and robust security practices to create resili
 * **CI/CD:**
     * ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
     * ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-    * GitLab CI
+    * ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 * **Operating Systems:**
     * ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -47,7 +47,10 @@ My goal is to leverage automation and robust security practices to create resili
     * ![Network Security](https://img.shields.io/badge/-Network_Security-FF6F61?style=for-the-badge)
     * ![Penetration Testing](https://img.shields.io/badge/-Pentesting-9B59B6?style=for-the-badge)
 * **Tools:**
-    * Wireshark, Nmap, Burp Suite, Metasploit
+    * ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+    * ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+    * ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+    * ![Metasploit](https://img.shields.io/badge/-Metasploit-222222?style=for-the-badge)
 
 ---
 
