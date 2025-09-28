@@ -125,7 +125,7 @@
 ---
 
 ## 📫 Connect With Me  
-<p>
-  📧 Email: [aniketjha348@gmail.com](mailto:aniketjha348@gmail.com)  
-  🔗 LinkedIn: [linkedin.com/in/aniket-jha-1a70b8305](https://www.linkedin.com/in/aniket-jha-1a70b8305)  
-</p>
+
+- 📧 [Email](mailto:aniketjha348@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-jha-1a70b8305)  
+- 🐙 [GitHub](https://github.com/aniketjha348)  
