@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aniketjha348/aniketjha348/blob/main/cyber" alt="Cybersecurity Vision Banner" width="100%" />
+  <img src="https://github.com/aniketjha348/aniketjha348/blob/main/cybers.png" alt="Cybersecurity Vision Banner" width="100%" />
 </p>
 
 <h1 align="center"> Hi, I'm Aniket Jha! 👋</h1>
