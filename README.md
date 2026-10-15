@@ -1,214 +1,224 @@
-<!--
-  ONLY EDIT THIS FILE. Everything in /assets and /.github is set up once and runs by itself.
-  Profile repo: github.com/aniketjha348/aniketjha348
--->
+ <div align="center">
 
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Aniket Jha — Cloud, DevOps, Automation"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ANIKET%20JHA&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=CLOUD%20ENGINEERING%20%2F%20DEVOPS%20%2F%20AUTOMATION&descSize=16&descAlignY=57&animation=fadeIn&color=0:020617,45:172554,75:1D4ED8,100:0891B2" alt="Aniket Jha Engineering"/>
 
-<p align="center">
-  <a href="https://github.com/aniketjha348"><img src="https://img.shields.io/badge/GitHub-aniketjha348-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/aniket-jha-devops"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aniketjha348@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+# Engineering systems, not just deployments.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=Shipping+code+from+git+push+to+production;Containerizing+everything+with+Docker;Orchestrating+workloads+on+Kubernetes;Automating+infrastructure+with+Terraform+%26+Ansible;Learning+by+building+%E2%80%94+in+public" alt="Typing animation"/>
-</p>
+**DevOps & Cloud Engineering · Infrastructure Automation · Cloud-Native Systems**
 
-<p align="center">
-  <img src="./assets/marquee.svg" width="100%" alt="Technologies: AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions, Linux, Python, Go"/>
-</p>
+Building practical skills in the systems that make software reliable, repeatable, and production-ready.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="34" align="center"/> About Me</h2>
-
-I'm an **MCA student** who loves understanding how an application travels from a `git push` to production — **version control → automated tests → containers → deployment → monitoring → security**. My goal is to build deployment workflows that are **reliable, secure, and reproducible**.
-
-> *Learning by building, documenting what works, and improving systems through automation.*
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/3D/books_3d.png" width="64"/><br/>
-      <b>Learning</b><br/>
-      <sub>Docker · Kubernetes · AWS · cloud-native deployment</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="64"/><br/>
-      <b>Working with</b><br/>
-      <sub>Git · GitHub · Jenkins · Linux · Python · CI/CD</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="64"/><br/>
-      <b>Exploring next</b><br/>
-      <sub>Terraform · Helm · GitOps · Prometheus · Grafana</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="64"/><br/>
-      <b>Goal</b><br/>
-      <sub>Reliable, secure, reproducible deployments</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gear/3D/gear_3d.png" width="28" align="center"/> How I think about delivery</h3>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0B1B3A','primaryBorderColor':'#38BDF8','primaryTextColor':'#E0F2FE','lineColor':'#38BDF8','fontFamily':'monospace'}}}%%
-flowchart LR
-    A[Code] --> B[Git Push]
-    B --> C[Jenkins CI]
-    C --> D[Build and Test]
-    D --> E[Docker Image]
-    E --> F[Deploy]
-    F --> G[Monitor]
-    G -.feedback.-> A
-```
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Package/3D/package_3d.png" width="34" align="center"/> Tech Stack</h2>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS, Azure"/> |
-| **Containers** | <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker, Kubernetes"/> |
-| **CI/CD & IaC** | <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible&theme=dark" alt="Jenkins, GitHub Actions, Terraform, Ansible"/> |
-| **Languages & OS** | <img src="https://skillicons.dev/icons?i=linux,bash,python,go&theme=dark" alt="Linux, Bash, Python, Go"/> |
-| **Observability & Tools** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,nginx,vscode&theme=dark" alt="Prometheus, Grafana, Git, GitHub, Nginx, VS Code"/> |
+[Explore Projects](https://github.com/aniketjha348?tab=repositories) · [GitHub](https://github.com/aniketjha348) · [LinkedIn](https://linkedin.com/in/aniket-jha-devops) · [Contact](mailto:aniketjha348@gmail.com)
 
 </div>
 
-<p align="center"><sub>Technologies reflect my learning and project interests — proficiency varies by tool.</sub></p>
+---
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### `01 / ENGINEER PROFILE`
 
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="34" align="center"/> Featured Projects</h2>
+```bash
+$ id
+aniket-jha
+
+$ cat focus.txt
+Cloud infrastructure
+CI/CD engineering
+Container orchestration
+Infrastructure as Code
+Observability & security
+
+$ cat objective.txt
+Learn by building.
+Automate repetitive operations.
+Design reproducible systems.
+Document every important decision.
+```
+
+I'm an MCA student focused on DevOps and cloud infrastructure. I work toward understanding the complete journey from source code to a monitored deployment, with an emphasis on automation, security, and operational reliability.
+
+My portfolio is a record of what I build, what I learn, and how my engineering practices improve over time.
+
+### `02 / TECHNOLOGY LANDSCAPE`
+
+<div align="center">
+
+**CLOUD**
+
+<img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure"/>
+
+**DELIVERY & ORCHESTRATION**
+
+<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,githubactions" alt="Jenkins, Docker, Kubernetes and GitHub Actions"/>
+
+**INFRASTRUCTURE & SYSTEMS**
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,linux,bash" alt="Terraform, Ansible, Linux and Bash"/>
+
+**OBSERVABILITY & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,python,go,git,github" alt="Prometheus, Grafana, Python, Go, Git and GitHub"/>
+
+</div>
+
+<sub>These represent my technical focus and learning interests, not a claim of equal proficiency across all tools.</sub>
+
+---
+
+### `03 / ENGINEERING PORTFOLIO`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gear/3D/gear_3d.png" width="44" align="right"/>
-      <h3>Vele — CI/CD Pipeline</h3>
-      <img src="https://img.shields.io/badge/status-built-22C55E?style=flat-square" alt="built"/>
-      <p>Repeatable pipeline for builds and deployments — source control, automated checks and Docker image creation, with documented stages and troubleshooting.</p>
-      <p><code>Jenkins</code> <code>Docker</code> <code>GitHub</code> <code>TypeScript</code></p>
-      <a href="https://github.com/aniketjha348/Vele-CI-CD"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png" width="44" align="right"/>
-      <h3>Home Network Security Audit</h3>
-      <img src="https://img.shields.io/badge/status-documented-22C55E?style=flat-square" alt="documented"/>
-      <p>Network enumeration and assessment methodology for an authorized environment — findings, remediation steps and security recommendations.</p>
-      <p><code>Linux</code> <code>Nmap</code> <code>Network Security</code></p>
-      <a href="https://github.com/aniketjha348/home-network-security-audit"><b>View repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="44" align="right"/>
-      <h3>Cloud Infrastructure Automation</h3>
-      <img src="https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square" alt="in progress"/>
-      <p>Reusable Terraform modules, environment separation and automated provisioning — with clear docs on networking, access controls and prerequisites.</p>
-      <p><code>Terraform</code> <code>AWS</code> <code>Azure</code></p>
-      <a href="https://github.com/aniketjha348?tab=repositories"><b>Explore repositories →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Spouting%20whale/3D/spouting_whale_3d.png" width="44" align="right"/>
-      <h3>Kubernetes Deployment Lab</h3>
-      <img src="https://img.shields.io/badge/status-learning-38BDF8?style=flat-square" alt="learning"/>
-      <p>Containerizing apps and practicing Kubernetes deployments, services and config management — exploring Helm releases and Prometheus/Grafana monitoring.</p>
-      <p><code>Docker</code> <code>Kubernetes</code> <code>Helm</code> <code>Prometheus</code> <code>Grafana</code></p>
-      <a href="https://github.com/aniketjha348?tab=repositories"><b>Explore repositories →</b></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**01 — DELIVERY ENGINEERING**
+
+### Vele CI/CD Pipeline
+
+Designing a repeatable application delivery workflow.
+
+- Source control integration
+- Automated build and validation
+- Container image creation
+- Deployment workflow documentation
+
+**Stack:** Jenkins · Docker · GitHub
+
+[Inspect the repository →](https://github.com/aniketjha348/Vele-CI-CD)
+
+</td>
+<td width="50%" valign="top">
+
+**02 — INFRASTRUCTURE SECURITY**
+
+### Home Network Security Audit
+
+A security assessment project centered on authorized testing and actionable remediation.
+
+- Network enumeration
+- Security findings
+- Hardening recommendations
+- Technical documentation
+
+**Stack:** Linux · Nmap · Network Security
+
+[Inspect the repository →](https://github.com/aniketjha348/home-network-security-audit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — INFRASTRUCTURE AS CODE**
+
+### Cloud Provisioning Lab
+
+Exploring reusable infrastructure definitions and environment consistency.
+
+- Terraform module design
+- Cloud networking fundamentals
+- Access management
+- Repeatable provisioning
+
+**Stack:** Terraform · AWS · Azure
+
+[Browse repositories →](https://github.com/aniketjha348?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+**04 — CLOUD-NATIVE OPERATIONS**
+
+### Kubernetes Deployment Lab
+
+Developing practical knowledge of container orchestration and application operations.
+
+- Workload and service configuration
+- Container image practices
+- Helm deployment patterns
+- Metrics and monitoring
+
+**Stack:** Docker · Kubernetes · Helm · Grafana
+
+[Browse repositories →](https://github.com/aniketjha348?tab=repositories)
+
+</td>
+</tr>
 </table>
 
-<h3><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="28" align="center"/> Live from GitHub</h3>
+<sub>For each project, include a verified status, architecture diagram, setup instructions, test results, and actual implementation details. Do not present planned work as completed.</sub>
 
-<p align="center">
-  <a href="https://github.com/aniketjha348/Vele-CI-CD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketjha348&repo=Vele-CI-CD&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=8B5CF6" alt="Vele-CI-CD"/></a>
-  <a href="https://github.com/aniketjha348/home-network-security-audit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketjha348&repo=home-network-security-audit&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=8B5CF6" alt="home-network-security-audit"/></a>
-</p>
+---
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### `04 / SYSTEM DESIGN PRINCIPLES`
 
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="34" align="center"/> GitHub in 3D</h2>
+| Principle | Implementation goal |
+|---|---|
+| Repeatability | Version infrastructure and deployment configuration |
+| Automation | Eliminate avoidable manual release steps |
+| Observability | Use logs, metrics, health checks, and actionable alerts |
+| Security | Apply least privilege and protect secrets |
+| Reliability | Validate changes and design clear rollback procedures |
+| Documentation | Make setup, troubleshooting, and design decisions reproducible |
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
-</p>
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketjha348&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjha348&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Top languages"/>
-</p>
+### `05 / ENGINEERING ACTIVITY`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniketjha348&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="GitHub streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketjha348&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniketjha348&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjha348&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" alt="Language statistics"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketjha348/aniketjha348/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/aniketjha348/aniketjha348/output/github-snake.svg" width="100%" alt="Contribution snake"/>
-  </picture>
-</p>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniketjha348&bg_color=020617&color=94A3B8&line=3B82F6&point=22D3EE&area=true&hide_border=true" alt="Contribution graph"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
 
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Compass/3D/compass_3d.png" width="34" align="center"/> Learning Roadmap</h2>
+<sub>Analytics are provided by third-party services and depend on their availability.</sub>
 
-| Area | Focus | Progress |
-|:---|:---|:---|
-| **CI/CD** | Jenkins pipelines, automated testing, artifact management | 🟦🟦🟦⬛⬛ |
-| **Containers** | Dockerfiles, image optimization, container security | 🟦🟦🟦⬛⬛ |
-| **Cloud** | AWS fundamentals, IAM, VPC, EC2, networking | 🟦🟦⬛⬛⬛ |
-| **Kubernetes** | Deployments, services, Helm, EKS fundamentals | 🟦🟦⬛⬛⬛ |
-| **IaC & GitOps** | Terraform, Ansible, Argo CD | 🟦⬛⬛⬛⬛ |
-| **Observability** | Prometheus, Grafana, centralized logging | 🟦⬛⬛⬛⬛ |
-| **Security** | Linux hardening, secrets management, least privilege | 🟦🟦⬛⬛⬛ |
+---
 
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="34" align="center"/> Professional Development</h2>
+### `06 / LEARNING TRAJECTORY`
 
-My learning path centers on **cloud, Linux administration, cybersecurity and infrastructure operations**:
+```text
+FOUNDATIONS
+Linux · Networking · Git
+        |
+        v
+DELIVERY
+Jenkins · CI/CD · Docker
+        |
+        v
+CLOUD
+AWS · IAM · VPC · Infrastructure
+        |
+        v
+ORCHESTRATION
+Kubernetes · Helm · EKS
+        |
+        v
+AUTOMATION
+Terraform · Ansible · GitOps
+        |
+        v
+OPERATIONS
+Monitoring · Security · Reliability
+```
 
-- AWS cloud architecture and services
-- Linux administration
-- Azure cloud fundamentals and administration
-- Cybersecurity and infrastructure security
+My priority is to turn each stage into practical, documented work rather than collect tools without understanding how they fit together.
 
-<!-- Add earned certifications here only once their status is confirmed. -->
+---
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+### `07 / CONNECT`
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="34" align="center"/> Let's Connect</h2>
+Interested in cloud infrastructure, deployment automation, and cloud-native engineering.
 
-<p align="center">
-  Questions or ideas around <b>CI/CD, cloud or automation</b>? I'd love to hear from you.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/aniket-jha-devops"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aniketjha348@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/aniketjha348?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-</p>
+<a href="https://github.com/aniketjha348?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20my%20work-2563EB?style=for-the-badge" alt="Explore projects"/></a>
+<a href="https://linkedin.com/in/aniket-jha-devops"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:aniketjha348@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-0891B2?style=for-the-badge&logo=gmail" alt="Email"/></a>
 
-<p align="center"><b>Build · Automate · Deploy · Observe · Improve</b></p>
+**Build deliberately. Automate intelligently. Improve continuously.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketjha348&style=flat-square&color=2563eb&label=Profile+Views" alt="Profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=aniketjha348&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B1220,50:1D4ED8,100:06B6D4&section=footer" width="100%" alt=""/>
+</div>
